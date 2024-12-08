@@ -1,0 +1,1 @@
+While using Expo, I encountered an issue where the application would crash intermittently on Android devices.  The error logs were unhelpful, providing only a generic 'native module not found' message. This occurred inconsistently, making debugging extremely difficult. The problem only seemed to manifest on certain devices, adding to the complexity.
